@@ -1,0 +1,28 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "https://burrito.bible/schema/versification_as_json.schema.json",
+    "$$target": "canon_constraints.schema.json",
+    "title": "Canon Constraints",
+    "type": "object",
+    "properties": {
+        "basedOn": {},
+        "verification": {},
+        "maxVerses": {},
+        "excludedVerses": {
+            "type": "array"
+        },
+        "mappedVerses": {},
+        "mergedVerses": {},
+        "partialVerses": {
+            "type": "object",
+            "propertyNames": {
+                "const": "banana"
+            }
+        },
+        "additionalProperties": false
+    },
+    "required": [
+        "maxVerses"
+    ],
+    "additionalProperties": false
+}
