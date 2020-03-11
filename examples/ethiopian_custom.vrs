@@ -1,0 +1,338 @@
+# Versification  "Ethiopian"
+# Version=1.2
+# 
+# modifications by Studge 23 April 2010
+# added definitions for Ethiopian books
+# information from the Bible Society of Ethiopia
+#
+# To use this versification with your project
+# 1) Place this file in your project directory and rename it "custom.vrs"
+# 2) In Project > Project Properties and Settings, set Versification to "Original"
+#
+# List of books, chapters, verses
+# One line per book.
+# One entry for each chapter.
+# Verse number is the maximum verse number for that chapter.
+# See the lines containing ='s below for verse mappings.
+#
+#------------------------------------------------
+# Ethiopian Orthodox OT book order 
+# GEN EXO LEV NUM DEU JOS JDG RUT 1SA 2SA 1KI 2KI 1CH 2CH JUB ENO EZR
+# NEH TOB JDT ESG 1MQ 2MQ 3MQ JOB PSA PRO REP WIS ECC SNG SIR ISA JER
+# BAR LAM LJE 4BA EZK DAG HOS AMO MIC JOL OBS JON NAM HAB ZEP HAG ZEC MAL
+#
+# Old Testament chapters with different number of verses than Original
+EXO 37:21 38:27 39:23
+NUM 6:26 25:18
+JOS 8:29 10:42 13:32
+1SA 17:54 18:29
+1KI 4:19 6:36 7:50
+2CH 33:38
+# Note that 2CH 33:26-38 includes Prayer of Manasseh
+# JUB
+# ENO
+# Note Ezra is called 1 Ezra in Ethiopian
+NEH 3:32 4:23 9:38 10:39
+# Note Nehemiah is called 2 Ezra in Ethiopian
+# TOB
+PSA 3:8 4:8 5:12 6:10 7:17 8:9 9:38 10:7 11:8 12:6 13:10 14:5 15:11 16:15 17:50 18:14 19:9 20:13 21:31 22:6 23:10 24:22 25:12 26:14 27:9 28:11 29:12 30:24 31:11 32:22 34:28 35:12 36:40 37:22 38:13 39:17 40:13 41:11 42:5 43:26 44:17 45:11 46:9 47:14 48:20 49:23 50:19 51:9 52:6 54:23 55:13 56:11 57:11 58:17 59:12 60:8 61:12 62:11 63:10 64:13 65:20 66:7 67:35 69:5 70:24 71:19 72:28 73:23 74:10 75:12 76:20 77:72 78:13 79:19 80:16 81:8 82:18 83:12 85:17 86:7 87:18 88:52 89:17 90:16 91:15 92:5 93:23 94:11 95:13 96:12 97:9 99:5 100:8 101:28 102:22 103:35 104:45 105:48 106:43 107:13 108:31 109:7 110:10 112:9 113:26 114:9 115:10 116:6 117:29 118:176 119:7 120:8 121:9 122:4 123:8 124:5 125:6 126:5 127:6 128:8 130:3 131:18 132:3 134:21 135:25 136:9 137:8 138:24 139:13 140:10 141:7 142:12 143:15 144:21 145:10 146:11 147:9 151:7
+# Note that Psalms includes Pslam 151
+PRO 18:22 
+# Note that proverbs includes 24 chapters and chapters 25-31 are called REProof [***** NOTE: How is versification set for last chapters? *****]
+ISA 2:21 56:11
+JER 25:20 26:28 27:46 28:64 29:7 30:33 31:44 32:38 33:24 35:17 37:24 38:40 39:44 40:13 41:22 42:19 43:32 44:21 45:28 46:18 47:16 48:18 49:22 50:13 51:35
+DAN 3:97 4:37
+# note that the Minor Prophets are ordered differently in the Ethiopian tradition
+# ------------------------------------------------------
+# New Testament books have identical chapter and verses in the Ethiopian tradition as in Original
+# Note that the Catholic Epistles are ordered differently in the Ethiopian tradition
+#--------------------------------------------------
+# Deuterocanonical Books
+ESG 1:22 3:15 4:17 5:14 8:17 10:3 11:1
+WIS 1:16 2:24 3:19 4:20 5:23 6:25 7:30 8:21 9:18 10:21 11:26 12:27 13:19 14:31 15:19 16:29 17:20 18:25 19:22
+SIR 1:30 2:18 3:31 4:31 5:15 6:37 7:36 8:19 9:18 10:31 11:34 12:18 13:26 14:27 15:20 16:30 17:32 18:33 19:30 20:31 21:28 22:27 23:27 24:34 25:26 26:29 27:30 28:26 29:28 30:25 31:31 32:24 33:33 34:26 35:24 36:27 37:31 38:34 39:35 40:30 41:27 42:25 43:33 44:23 45:26 46:20 47:25 48:25 49:16 50:29 51:30
+BAR 1:22 2:35 3:38 4:37 5:9
+LJE 1:72
+# Letter of Jeremiah is called Rest of Jeremiah in Ethiopian
+S3Y 1:37
+SUS 1:63
+BEL 1:42
+# additions to Daniel only appear in the Ethiopian Ecumenical Bible
+#1MA 1:64 2:70 3:60 4:61 5:68 6:63 7:50 8:32 9:73 10:89 11:74 12:53 13:53 14:49 15:41 16:24
+#2MA 1:36 2:32 3:40 4:50 5:27 6:31 7:42 8:36 9:29 10:38 11:38 12:45 13:26 14:46 15:39
+#3MA 1:29 2:33 3:30 4:21 5:51 6:41 7:23
+#4MA 1:35 2:24 3:21 4:26 5:38 6:35 7:23 8:29 9:32 10:21 11:27 12:19 13:27 14:20 15:32 16:25 17:24 18:24
+# The books of Maccabees are not used in the Ethiopian Protestant or Orthodox Bibles, but might appear in the proposed Catholic edition, I have commented them out
+# Greek Esdras
+1ES 1:55 2:26 3:24 4:63 5:71 6:33 7:15 8:92 9:55
+# Note that Greek Ezra 1 ES is called 4 Ezra in Ethiopian
+MAN 1:15
+# Note that the Prayer of Manasseh is part of 2 Chronicles in the Orthodox Bible but separate in the Ecumenical Bible
+PS2 1:7
+# Note that Psalm 151 is part of Psalms in the Orthodox Bible
+DAG 1:21 2:49 3:97 4:37 5:31 6:28 7:28 8:27 9:27 10:21 11:45 12:13 13:64 14:42
+# Note that the Daniel in the Orthodox Bible is the Greek Daniel
+#--------------------------------------------------------
+# Books for Ethiopian Canon [Studge]
+# Jubilees
+JUB 1:26 2:17 3:19 4:24 5:36 6:34 7:37 8:40 9:27 10:48 11:39 12:56 13:34 14:55 15:20 16:28 17:30 18:31 19:59 20:66 21:30 22:38 23:59 24:30 25:50 26:48 27:37 28:38 29:27 30:29 31:31 32:24 33:30 34:20
+# Enoch
+ENO 1:28 2:42 3:30 4:88 5:40 6:42 7:39 8:46 9:42 10:16 11:19 12:40 13:34 14:35 15:45 16:41 17:69 18:42 19:29 20:53 21:57 22:14 23:26 24:16 25:30 26:37 27:21 28:34 29:28 30:23 31:29 32:82 33:59 34:49 35:36 36:30 37:34 38:36 39:24 40:40 41:22 42:16
+# 1 Meqabyan
+1MQ 1:28 2:28 3:38 4:37 5:39 6:38 7:33 8:35 9:10 10:8 11:8 12:44 13:27 14:23 15:20 16:9 17:8 18:12 19:17 20:4 21:31 22:11 23:7 4:22 25:18 26:5 27:20 28:49 29:17 30:16 31:7 32:4 33:11 34:18 35:8 36:46
+# 2 Meqabyan
+2MQ 1:13 2:11 3:29 4:32 5:18 6:24 7:9 8:24 9:27 10:28 11:25 12:15 13:14 14:36 15:21 16:15 17:12 18:14 19:15 20:14 
+# 3 Meqabyan
+3MQ 1:24 2:23 3:11 4:36 5:16 6:16 7:5 8:12 9:36 10:29
+# Reproof
+REP 1:28 2:28 3:27 4:28 5:27 6:22
+# Reproof is the second half of the book of Proverbs in the Orthodox Bible
+# 4 Baruch / Rest of the Words of Baruch
+4BA 1:30 2:29 3:30 4:32 5:62
+# 3 Ezra/ Ezra Shealtiel / Apocalypse of Ezra
+EZA 1:36 2:52 3:56 4:59 5:140 6:63 7:47 8:59 9:46 10:51 11:58 12:48
+# Note that Apocalypse of Ezra is called 3 Ezra in Ethiopian
+#---------------------------------------------------------
+# Mapping
+# LXX = BHS (see org.vrs)
+#
+EXO 21:16 = EXO 21:17
+EXO 21:17 = EXO 21:16
+# Greek Esther to Hebrew Esther
+ESG 1:1-22 = EST 1:1-22
+ESG 2:1-23 = EST 2:1-23
+ESG 3:1-15 = EST 3:1-15
+ESG 4:1-17 = EST 4:1-17
+ESG 5:1-14 = EST 5:1-14
+ESG 6:1-14 = EST 6:1-14
+ESG 7:1-10 = EST 7:1-10
+ESG 8:1-17 = EST 8:1-17
+ESG 9:1-32 = EST 9:1-32
+ESG 10:1-3 = EST 10:1-3
+# Greek Psalms to Hebrew Psalms
+# PSA 9 = 9+10
+PSA 9:22 = PSA 10:0
+PSA 9:22-39 = PSA 10:1-18
+PSA 10:0-7 = PSA 11:0-7
+PSA 11:0-9 = PSA 12:0-9
+PSA 12:0-6 = PSA 13:0-6
+PSA 13:0-7 = PSA 14:0-7
+PSA 14:0-5 = PSA 15:0-5
+PSA 15:0-11 = PSA 16:0-11
+PSA 16:0-15 = PSA 17:0-15
+PSA 17:0-51 = PSA 18:0-51
+PSA 18:0-15 = PSA 19:0-15
+PSA 19:0-10 = PSA 20:0-10
+PSA 20:0-14 = PSA 21:0-14
+PSA 21:0-32 = PSA 22:0-32
+PSA 22:0-6 = PSA 23:0-6
+PSA 23:0-10 = PSA 24:0-10
+PSA 24:0-22 = PSA 25:0-22
+PSA 25:0-12 = PSA 26:0-12
+PSA 26:0-14 = PSA 27:0-14
+PSA 27:0-9 = PSA 28:0-9
+PSA 28:0-11 = PSA 29:0-11
+PSA 29:0-13 = PSA 30:0-13
+PSA 30:0-25 = PSA 31:0-25
+PSA 31:0-11 = PSA 32:0-11
+PSA 32:0-22 = PSA 33:0-22
+PSA 33:0-23 = PSA 34:0-23
+PSA 34:0-28 = PSA 35:0-28
+PSA 35:0-13 = PSA 36:0-13
+PSA 36:0-40 = PSA 37:0-40
+PSA 37:0-23 = PSA 38:0-23
+PSA 38:0-14 = PSA 39:0-14
+PSA 39:0-18 = PSA 40:0-18
+PSA 40:0-14 = PSA 41:0-14
+PSA 41:0-12 = PSA 42:0-12
+PSA 42:0-5 = PSA 43:0-5
+PSA 43:0-27 = PSA 44:0-27
+PSA 44:0-18 = PSA 45:0-18
+PSA 45:0-12 = PSA 46:0-12
+PSA 46:0-10 = PSA 47:0-10
+PSA 47:0-15 = PSA 48:0-15
+PSA 48:0-21 = PSA 49:0-21
+PSA 49:0-23 = PSA 50:0-23
+PSA 50:0-21 = PSA 51:0-21
+PSA 51:0-11 = PSA 52:0-11
+PSA 52:0-7 = PSA 53:0-7
+PSA 53:0-9 = PSA 54:0-9
+PSA 54:0-24 = PSA 55:0-24
+PSA 55:0-14 = PSA 56:0-14
+PSA 56:0-12 = PSA 57:0-12
+PSA 57:0-12 = PSA 58:0-12
+PSA 58:0-18 = PSA 59:0-18
+PSA 59:0-14 = PSA 60:0-14
+PSA 60:0-9 = PSA 61:0-9
+PSA 61:0-13 = PSA 62:0-13
+PSA 62:0-12 = PSA 63:0-12
+PSA 63:0-11 = PSA 64:0-11
+PSA 64:0-14 = PSA 65:0-14
+PSA 65:0-20 = PSA 66:0-20
+PSA 66:0-8 = PSA 67:0-8
+PSA 67:0-36 = PSA 68:0-36
+PSA 68:0-37 = PSA 69:0-37
+PSA 69:0-6 = PSA 70:0-6
+PSA 70:0-24 = PSA 71:0-24
+PSA 71:0-20 = PSA 72:0-20
+PSA 72:0-28 = PSA 73:0-28
+PSA 73:0-23 = PSA 74:0-23
+PSA 74:0-11 = PSA 75:0-11
+PSA 75:0-13 = PSA 76:0-13
+PSA 76:0-21 = PSA 77:0-21
+PSA 77:0-72 = PSA 78:0-72
+PSA 78:0-13 = PSA 79:0-13
+PSA 79:0-20 = PSA 80:0-20
+PSA 80:0-17 = PSA 81:0-17
+PSA 81:0-8 = PSA 82:0-8
+PSA 82:0-19 = PSA 83:0-19
+PSA 83:0-13 = PSA 84:0-13
+PSA 84:0-14 = PSA 85:0-14
+PSA 85:0-17 = PSA 86:0-17
+PSA 86:0-7 = PSA 87:0-7
+PSA 87:0-19 = PSA 88:0-19
+PSA 88:0-53 = PSA 89:0-53
+PSA 89:0-17 = PSA 90:0-17
+PSA 90:0-16 = PSA 91:0-16
+PSA 91:0-16 = PSA 92:0-16
+PSA 92:0-5 = PSA 93:0-5
+PSA 93:0-23 = PSA 94:0-23
+PSA 94:0-11 = PSA 95:0-11
+PSA 95:0-13 = PSA 96:0-13
+PSA 96:0-12 = PSA 97:0-12
+PSA 97:0-9 = PSA 98:0-9
+PSA 98:0-9 = PSA 99:0-9
+PSA 99:0-5 = PSA 100:0-5
+PSA 100:0-8 = PSA 101:0-8
+PSA 101:0-29 = PSA 102:0-29
+PSA 102:0-22 = PSA 103:0-22
+PSA 103:0-35 = PSA 104:0-35
+PSA 104:0-45 = PSA 105:0-45
+PSA 105:0-48 = PSA 106:0-48
+PSA 106:0-43 = PSA 107:0-43
+PSA 107:0-14 = PSA 108:0-14
+PSA 108:0-31 = PSA 109:0-31
+PSA 109:0-7 = PSA 110:0-7
+PSA 110:0-10 = PSA 111:0-10
+PSA 111:0-10 = PSA 112:0-10
+PSA 112:0-9 = PSA 113:0-9
+PSA 113:0-8 = PSA 114:0-8
+PSA 113:9 = PSA 115:0
+PSA 113:9-26 = PSA 115:1-18
+PSA 114:0-9 = PSA 116:0-9
+PSA 115:0 = PSA 116:10
+PSA 115:1-10 = PSA 116:10-19	
+PSA 116:0-2 = PSA 117:0-2
+PSA 117:0-29 = PSA 118:0-29
+PSA 118:0-176 = PSA 119:0-176
+PSA 119:0-7 = PSA 120:0-7
+PSA 120:0-8 = PSA 121:0-8
+PSA 121:0-9 = PSA 122:0-9
+PSA 122:0-4 = PSA 123:0-4
+PSA 123:0-8 = PSA 124:0-8
+PSA 124:0-5 = PSA 125:0-5
+PSA 125:0-6 = PSA 126:0-6
+PSA 126:0-5 = PSA 127:0-5
+PSA 127:0-6 = PSA 128:0-6
+PSA 128:0-8 = PSA 129:0-8
+PSA 129:0-8 = PSA 130:0-8
+PSA 130:0-3 = PSA 131:0-3
+PSA 131:0-18 = PSA 132:0-18
+PSA 132:0-3 = PSA 133:0-3
+PSA 133:0-3 = PSA 134:0-3
+PSA 134:0-21 = PSA 135:0-21
+PSA 135:0-26 = PSA 136:0-26
+PSA 136:0-9 = PSA 137:0-9
+PSA 137:0-8 = PSA 138:0-8
+PSA 138:0-24 = PSA 139:0-24
+PSA 139:0-14 = PSA 140:0-14
+PSA 140:0-10 = PSA 141:0-10
+PSA 141:0-8 = PSA 142:0-8
+PSA 142:0-12 = PSA 143:0-12
+PSA 143:0-15 = PSA 144:0-15
+PSA 144:0-21 = PSA 145:0-21
+PSA 145:0-10 = PSA 146:0-10
+# 146 + 147 -> 147
+PSA 146:0-11 = PSA 147:0-11
+PSA 147:0 = PSA 147:12
+PSA 147:1-9 = PSA 147:12-20
+# PSA 151 -> PS2
+PSA 151:0-7 = PS2 1:0-7
+JER 25:14-19 = JER 49:34-39
+JER 25:20 = JER 49:34
+JER 26:1-28 = JER 46:1-28
+JER 27:1-46 = JER 50:1-46
+JER 28:1-64 = JER 51:1-64
+JER 29:1-7 = JER 47:1-7
+JER 30:1-16 = JER 49:7-22
+JER 30:17-22 = JER 49:1-6
+JER 30:23-28 = JER 49:28-33
+JER 30:29-33 = JER 49:23-27
+JER 31:1-44 = JER 48:1-44
+# Verses 31:1-13 do not exist
+JER 32:13 = JER 25:13
+# Verse 32:14 does not exist
+JER 32:15-38 = JER 25:15-38
+JER 33:1-24 = JER 26:1-24
+JER 34:1-22 = JER 27:1-22
+JER 35:1-17 = JER 28:1-17
+JER 36:1-32 = JER 29:1-32
+JER 37:1-24 = JER 30:1-24
+JER 38:1-40 = JER 31:1-40
+JER 39:1-44 = JER 32:1-44
+JER 40:1-13 = JER 33:1-13
+JER 41:1-22 = JER 34:1-22
+JER 42:1-19 = JER 35:1-19
+JER 43:1-32 = JER 36:1-32
+JER 44:1-21 = JER 37:1-21
+JER 45:1-28 = JER 38:1-28
+JER 46:1-3 = JER 39:1-3
+# Verses 46:4-13 do not exist
+JER 46:14-18 = JER 39:14-18
+JER 47:1-16 = JER 40:1-16
+JER 48:1-18 = JER 41:1-18
+JER 49:1-22 = JER 42:1-22
+JER 50:1-13 = JER 43:1-13
+JER 51:1-30 = JER 44:1-30
+JER 51:31-35 = JER 45:1-5
+#
+# Mapping LXX onto Masoretic
+# Mapping Greek Daniel onto Hebrew Daniel
+DAG 1:1-21 = DAN 1:1-21
+DAG 2:1-49 = DAN 2:1-49
+DAG 3:91-97 = DAN 3:24-30
+DAG 4:1-3 = DAN 3:31-33
+DAG 4:4-37 = DAN 4:1-34
+DAG 5:1-31 = DAN 5:1-31
+DAG 6:1-28 = DAN 6:1-28
+DAG 7:1-28 = DAN 7:1-28
+DAG 8:1-27 = DAN 8:1-27
+DAG 9:1-27 = DAN 9:1-27
+DAG 10:1-21 = DAN 10:1-21
+DAG 11:1-45 = DAN 11:1-45 
+DAG 12:1-13 = DAN 12:1-13
+#
+# mapping onto additions to Daniel:
+DAG 3:24-53 = S3Y 1:1-31
+DAG 3:54 = S3Y 1:33
+DAG 3:55 = S3Y 1:32
+DAG 3:56-57 = S3Y 1:34-35
+DAG 3:58 = S3Y 1:37
+DAG 3:59 = S3Y 1:36
+DAG 3:60-90 = S3Y 1:38-68
+# Susanna
+DAG 13:1-63 = SUS 1:63
+# Bel and the Dragon
+DAG 14:1-42 = BEL 1:42
+#
+# Mapping Reproof (Ethiopian canon) to the end of Proverbs
+REP 1:1-28 = PRO 25:1-28
+REP 2:1-28 = PRO 26:1-28
+REP 3:1-27 = PRO 27:1-27
+REP 4:1-28 = PRO 28:1-28
+REP 5:1-27 = PRO 29:1-27 
+REP 6:1-22 = PRO 30:1-22
+#
+# Mapping end of 2 Chronicles 33 to Prayer of Manasseh
+2CH 33:26-38 = MAN 1:1-15
+#
